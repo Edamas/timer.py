@@ -34,4 +34,4 @@ def timer(mins):
     
     
 >> timer(60)
-🕛🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛 # finishing after 60 seconds
+🕛🕐🕑🕒🕓🕔🕕🕖🕗🕘🕙🕚🕛 # finishing after 60 minutes (1h)
